@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: blue;
+}
+header ul{}
+header ul li{
+    display: inline;
+    padding: 60px 10px;
+
+}
+header ul li a{
+    color: white;
+}
+header ul li a:hover{}
